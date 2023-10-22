@@ -1,0 +1,11 @@
+p{
+    margin-bottom: 0.1rem;
+    text-align: left;
+    color: black;
+}
+
+input{
+    background-color:  hsl(184, 14%, 56%);
+    border-radius: 0.3rem;
+    width: 100%;
+}
